@@ -19,6 +19,7 @@ export const media = {
   sink: "/photos/sink.jpg",
   sinkAlt: "Kitchen sink with running water",
   logo: "/brand/logo-horizontal.png",
+  logoSidebar: "/brand/logo-sidebar.png",
   logoReversed: "/brand/logo-horizontal-reversed.png",
   icon: "/brand/logo-icon.png",
   iconReversed: "/brand/logo-icon-reversed.png",
