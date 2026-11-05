@@ -30,6 +30,7 @@ export default async function EstimatePage() {
       deposit={db.settings.depositAmount}
       earliest={earliest}
       days={days}
+      jurisdictions={db.jurisdictions.map((row) => ({ id: row.id, name: row.name }))}
     />
   );
 }
