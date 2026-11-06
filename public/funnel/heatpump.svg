@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72" height="88" viewBox="0 0 72 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="heatpump-illu">
+<path id="Vector" d="M24 28H48C51.3137 28 54 30.6863 54 34V72C54 75.3137 51.3137 78 48 78H24C20.6863 78 18 75.3137 18 72V34C18 30.6863 20.6863 28 24 28Z" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_2" d="M46 18C46 23.5228 41.5228 28 36 28C30.4772 28 26 23.5228 26 18C26 12.4772 30.4772 8 36 8C41.5228 8 46 12.4772 46 18Z" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_3" d="M36 12V24" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_4" d="M30 18H42" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_5" d="M31 14L41 22" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_6" d="M41 14L31 22" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_7" d="M28 48H44" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+</g>
+</svg>

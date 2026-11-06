@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72" height="88" viewBox="0 0 72 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tank-illu">
+<path id="Vector" d="M24 14H48C51.3137 14 54 16.6863 54 20V72C54 75.3137 51.3137 78 48 78H24C20.6863 78 18 75.3137 18 72V20C18 16.6863 20.6863 14 24 14Z" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_2" d="M28 14V8H44V14" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_3" d="M42 46C42 49.3137 39.3137 52 36 52C32.6863 52 30 49.3137 30 46C30 42.6863 32.6863 40 36 40C39.3137 40 42 42.6863 42 46Z" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_4" d="M24 78H48" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+<path id="Vector_5" d="M30 22H42" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" stroke="#2A2E36"/>
+</g>
+</svg>

@@ -81,6 +81,22 @@ export function monthLabel(iso: string) {
   );
 }
 
+export function formatHoldDate(iso?: string, style: "short" | "withWeekday" | "rail" = "withWeekday") {
+  if (!iso) return "";
+  const date = new Date(`${iso}T12:00:00`);
+  const weekday = new Intl.DateTimeFormat("en-US", { timeZone: TZ, weekday: "short" }).format(date);
+  const month = new Intl.DateTimeFormat("en-US", { timeZone: TZ, month: "short" }).format(date);
+  const day = new Intl.DateTimeFormat("en-US", { timeZone: TZ, day: "numeric" }).format(date);
+  if (style === "short") return `${month} ${day}`;
+  if (style === "rail") return `${weekday} ${month} ${day}`;
+  return `${weekday}, ${month} ${day}`;
+}
+
+export function windowLabel(value?: string) {
+  if (!value) return "";
+  return value.replace("-", " to ");
+}
+
 export function addDays(iso: string, days: number) {
   const d = new Date(`${iso}T12:00:00`);
   d.setDate(d.getDate() + days);

@@ -128,6 +128,25 @@
   background: #f4f4f5;
 }
 
+.key-hint {
+  display: inline;
+}
+.key-hint-block {
+  display: block;
+}
+.touch-only {
+  display: none;
+}
+@media (hover: none) and (pointer: coarse) {
+  .key-hint,
+  .key-hint-block {
+    display: none;
+  }
+  .touch-only {
+    display: block;
+  }
+}
+
 .hatch {
   background-image: repeating-linear-gradient(
     -45deg,

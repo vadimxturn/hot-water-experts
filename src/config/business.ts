@@ -35,6 +35,8 @@ export const business = {
   financingPartner: "[Financing partner pending]",
   // No review link until a real Google Business Profile is provided.
   reviewUrl: "",
+  // PLACEHOLDER: reviews. Do not show a count, rating, or quote until real reviews exist.
+  reviews: "[Reviews pending]",
   depositAmount: 100,
   depositPolicy:
     "The $100 deposit is credited at install and is refundable with 24 or more hours' notice.",
